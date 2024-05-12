@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "664100fd64f25d3bb0274f87"
+  },
+  "nombre": "Felipe",
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f7f"
+  },
+  "edad": 35
+},
+{
+  "_id": {
+    "$oid": "664100fd64f25d3bb0274f88"
+  },
+  "nombre": "Juan",
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f84"
+  },
+  "edad": 28
+},
+{
+  "_id": {
+    "$oid": "664100fd64f25d3bb0274f89"
+  },
+  "nombre": "Jhon",
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f81"
+  },
+  "edad": 23
+}]

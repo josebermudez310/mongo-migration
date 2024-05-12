@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "6641013864f25d3bb0274fc4"
+  },
+  "posicion": 1,
+  "pais": {
+    "$oid": "664100f464f25d3bb0274f7f"
+  },
+  "partidos_jugados": 1,
+  "victorias": 1,
+  "derrotas": 0,
+  "empates": 0,
+  "goles_favor": 1,
+  "goles_contra": 0,
+  "puntos": 3,
+  "id_grupo": {
+    "$oid": "664100e564f25d3bb0274f7d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641013864f25d3bb0274fc5"
+  },
+  "posicion": 4,
+  "pais": {
+    "$oid": "664100f464f25d3bb0274f80"
+  },
+  "partidos_jugados": 2,
+  "victorias": 0,
+  "derrotas": 1,
+  "empates": 1,
+  "goles_favor": 0,
+  "goles_contra": 1,
+  "puntos": 1,
+  "id_grupo": {
+    "$oid": "664100e564f25d3bb0274f7d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641013864f25d3bb0274fc6"
+  },
+  "posicion": 3,
+  "pais": {
+    "$oid": "664100f464f25d3bb0274f82"
+  },
+  "partidos_jugados": 2,
+  "victorias": 0,
+  "derrotas": 0,
+  "empates": 1,
+  "goles_favor": 0,
+  "goles_contra": 0,
+  "puntos": 1,
+  "id_grupo": {
+    "$oid": "664100e564f25d3bb0274f7d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641013864f25d3bb0274fc7"
+  },
+  "posicion": 2,
+  "pais": {
+    "$oid": "664100f464f25d3bb0274f81"
+  },
+  "partidos_jugados": 2,
+  "victorias": 0,
+  "derrotas": 0,
+  "empates": 2,
+  "goles_favor": 0,
+  "goles_contra": 0,
+  "puntos": 2,
+  "id_grupo": {
+    "$oid": "664100e564f25d3bb0274f7d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641013864f25d3bb0274fc8"
+  },
+  "posicion": 3,
+  "pais": {
+    "$oid": "664100f464f25d3bb0274f85"
+  },
+  "partidos_jugados": 1,
+  "victorias": 0,
+  "derrotas": 0,
+  "empates": 1,
+  "goles_favor": 0,
+  "goles_contra": 0,
+  "puntos": 1,
+  "id_grupo": {
+    "$oid": "664100e564f25d3bb0274f7e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641013864f25d3bb0274fc9"
+  },
+  "posicion": 4,
+  "pais": {
+    "$oid": "664100f464f25d3bb0274f86"
+  },
+  "partidos_jugados": 1,
+  "victorias": 0,
+  "derrotas": 0,
+  "empates": 1,
+  "goles_favor": 0,
+  "goles_contra": 0,
+  "puntos": 1,
+  "id_grupo": {
+    "$oid": "664100e564f25d3bb0274f7e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641013864f25d3bb0274fca"
+  },
+  "posicion": 1,
+  "pais": {
+    "$oid": "664100f464f25d3bb0274f84"
+  },
+  "partidos_jugados": 1,
+  "victorias": 1,
+  "derrotas": 0,
+  "empates": 0,
+  "goles_favor": 1,
+  "goles_contra": 0,
+  "puntos": 3,
+  "id_grupo": {
+    "$oid": "664100e564f25d3bb0274f7e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641013864f25d3bb0274fcb"
+  },
+  "posicion": 4,
+  "pais": {
+    "$oid": "664100f464f25d3bb0274f83"
+  },
+  "partidos_jugados": 1,
+  "victorias": 0,
+  "derrotas": 1,
+  "empates": 0,
+  "goles_favor": 0,
+  "goles_contra": 1,
+  "puntos": 0,
+  "id_grupo": {
+    "$oid": "664100e564f25d3bb0274f7e"
+  }
+}]

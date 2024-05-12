@@ -1,0 +1,440 @@
+[{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274f97"
+  },
+  "nombre": "James Rodríguez",
+  "edad": 30,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f7f"
+  },
+  "posición": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274f98"
+  },
+  "nombre": "Radamel Falcao",
+  "edad": 35,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f7f"
+  },
+  "posición": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274f99"
+  },
+  "nombre": "Juan Cuadrado",
+  "edad": 33,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f7f"
+  },
+  "posición": "Extremo"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274f9a"
+  },
+  "nombre": "David Ospina",
+  "edad": 33,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f7f"
+  },
+  "posición": "Portero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274f9b"
+  },
+  "nombre": "Davinson Sánchez",
+  "edad": 25,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f7f"
+  },
+  "posición": "Defensa"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274f9c"
+  },
+  "nombre": "Roberto Firmino",
+  "edad": 30,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f80"
+  },
+  "posición": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274f9d"
+  },
+  "nombre": "Casemiro",
+  "edad": 29,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f80"
+  },
+  "posición": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274f9e"
+  },
+  "nombre": "Marquinhos",
+  "edad": 27,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f80"
+  },
+  "posición": "Defensa"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274f9f"
+  },
+  "nombre": "Alisson Becker",
+  "edad": 29,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f80"
+  },
+  "posición": "Portero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fa0"
+  },
+  "nombre": "Richarlison",
+  "edad": 24,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f80"
+  },
+  "posición": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fa1"
+  },
+  "nombre": "Alexis Sánchez",
+  "edad": 32,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f81"
+  },
+  "posición": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fa2"
+  },
+  "nombre": "Gary Medel",
+  "edad": 34,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f81"
+  },
+  "posición": "Defensa"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fa3"
+  },
+  "nombre": "Eduardo Vargas",
+  "edad": 31,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f81"
+  },
+  "posición": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fa4"
+  },
+  "nombre": "Claudio Bravo",
+  "edad": 38,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f81"
+  },
+  "posición": "Portero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fa5"
+  },
+  "nombre": "Arturo Vidal",
+  "edad": 34,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f81"
+  },
+  "posición": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fa6"
+  },
+  "nombre": "Lionel Messi",
+  "edad": 34,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f82"
+  },
+  "posición": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fa7"
+  },
+  "nombre": "Sergio Agüero",
+  "edad": 33,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f82"
+  },
+  "posición": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fa8"
+  },
+  "nombre": "Paulo Dybala",
+  "edad": 28,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f82"
+  },
+  "posición": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fa9"
+  },
+  "nombre": "Emiliano Martínez",
+  "edad": 29,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f82"
+  },
+  "posición": "Portero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274faa"
+  },
+  "nombre": "Nicolas Otamendi",
+  "edad": 33,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f82"
+  },
+  "posición": "Defensa"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fab"
+  },
+  "nombre": "Alphonso Davies",
+  "edad": 21,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f83"
+  },
+  "posición": "Defensa"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fac"
+  },
+  "nombre": "Jonathan David",
+  "edad": 21,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f83"
+  },
+  "posición": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fad"
+  },
+  "nombre": "Scott Arfield",
+  "edad": 32,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f83"
+  },
+  "posición": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fae"
+  },
+  "nombre": "Milan Borjan",
+  "edad": 33,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f83"
+  },
+  "posición": "Portero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274faf"
+  },
+  "nombre": "Atiba Hutchinson",
+  "edad": 38,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f83"
+  },
+  "posición": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fb0"
+  },
+  "nombre": "Hirving Lozano",
+  "edad": 26,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f84"
+  },
+  "posición": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fb1"
+  },
+  "nombre": "Raúl Jiménez",
+  "edad": 30,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f84"
+  },
+  "posición": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fb2"
+  },
+  "nombre": "Héctor Herrera",
+  "edad": 31,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f84"
+  },
+  "posición": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fb3"
+  },
+  "nombre": "Guillermo Ochoa",
+  "edad": 36,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f84"
+  },
+  "posición": "Portero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fb4"
+  },
+  "nombre": "Andrés Guardado",
+  "edad": 35,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f84"
+  },
+  "posición": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fb5"
+  },
+  "nombre": "Enner Valencia",
+  "edad": 32,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f85"
+  },
+  "posición": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fb6"
+  },
+  "nombre": "Antonio Valencia",
+  "edad": 36,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f85"
+  },
+  "posición": "Defensa"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fb7"
+  },
+  "nombre": "Renato Ibarra",
+  "edad": 31,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f85"
+  },
+  "posición": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fb8"
+  },
+  "nombre": "Alexander Domínguez",
+  "edad": 34,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f85"
+  },
+  "posición": "Portero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fb9"
+  },
+  "nombre": "Felipe Caicedo",
+  "edad": 33,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f85"
+  },
+  "posición": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fba"
+  },
+  "nombre": "Salomón Rondón",
+  "edad": 31,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f86"
+  },
+  "posición": "Delantero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fbb"
+  },
+  "nombre": "Tomás Rincón",
+  "edad": 33,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f86"
+  },
+  "posición": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fbc"
+  },
+  "nombre": "Yangel Herrera",
+  "edad": 23,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f86"
+  },
+  "posición": "Centrocampista"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fbd"
+  },
+  "nombre": "Wuilker Faríñez",
+  "edad": 23,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f86"
+  },
+  "posición": "Portero"
+},
+{
+  "_id": {
+    "$oid": "6641012464f25d3bb0274fbe"
+  },
+  "nombre": "Yeferson Soteldo",
+  "edad": 24,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f86"
+  },
+  "posición": "Delantero"
+}]

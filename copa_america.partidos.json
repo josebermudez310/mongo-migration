@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6641011b64f25d3bb0274f92"
+  },
+  "pais_local": {
+    "$oid": "664100f464f25d3bb0274f7f"
+  },
+  "pais_visitante": {
+    "$oid": "664100f464f25d3bb0274f80"
+  },
+  "fecha": "2023-10-10T20:00:00Z",
+  "estadio": "Camp Nou",
+  "arbitro": {
+    "$oid": "664100fd64f25d3bb0274f89"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641011b64f25d3bb0274f93"
+  },
+  "pais_local": {
+    "$oid": "664100f464f25d3bb0274f82"
+  },
+  "pais_visitante": {
+    "$oid": "664100f464f25d3bb0274f81"
+  },
+  "fecha": "2023-10-11T20:00:00Z",
+  "estadio": "Estadio Monumental",
+  "arbitro": {
+    "$oid": "664100fd64f25d3bb0274f87"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641011b64f25d3bb0274f94"
+  },
+  "pais_local": {
+    "$oid": "664100f464f25d3bb0274f84"
+  },
+  "pais_visitante": {
+    "$oid": "664100f464f25d3bb0274f83"
+  },
+  "fecha": "2023-10-12T20:00:00Z",
+  "estadio": "Azteca",
+  "arbitro": {
+    "$oid": "664100fd64f25d3bb0274f87"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641011b64f25d3bb0274f95"
+  },
+  "pais_local": {
+    "$oid": "664100f464f25d3bb0274f85"
+  },
+  "pais_visitante": {
+    "$oid": "664100f464f25d3bb0274f86"
+  },
+  "fecha": "2023-10-13T20:00:00Z",
+  "estadio": "Santiago Bernabeu",
+  "arbitro": {
+    "$oid": "664100fd64f25d3bb0274f88"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641011b64f25d3bb0274f96"
+  },
+  "pais_local": {
+    "$oid": "664100f464f25d3bb0274f80"
+  },
+  "pais_visitante": {
+    "$oid": "664100f464f25d3bb0274f81"
+  },
+  "fecha": "2023-10-14T20:00:00Z",
+  "estadio": "Stade de France",
+  "arbitro": {
+    "$oid": "664100fd64f25d3bb0274f88"
+  }
+}]

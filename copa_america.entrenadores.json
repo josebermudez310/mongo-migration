@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6641010e64f25d3bb0274f8a"
+  },
+  "nombre": "Luis Garcia",
+  "edad": 42,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f7f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641010e64f25d3bb0274f8b"
+  },
+  "nombre": "Ana Martínez",
+  "edad": 35,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f80"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641010e64f25d3bb0274f8c"
+  },
+  "nombre": "Carlos Sánchez",
+  "edad": 48,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f81"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641010e64f25d3bb0274f8d"
+  },
+  "nombre": "Laura Rodríguez",
+  "edad": 52,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f82"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641010e64f25d3bb0274f8e"
+  },
+  "nombre": "David Fernandez",
+  "edad": 41,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f83"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641010e64f25d3bb0274f8f"
+  },
+  "nombre": "Marta López",
+  "edad": 50,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f84"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641010e64f25d3bb0274f90"
+  },
+  "nombre": "Elena Gómez",
+  "edad": 34,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f85"
+  }
+},
+{
+  "_id": {
+    "$oid": "6641010e64f25d3bb0274f91"
+  },
+  "nombre": "José Pérez",
+  "edad": 53,
+  "pais_id": {
+    "$oid": "664100f464f25d3bb0274f86"
+  }
+}]

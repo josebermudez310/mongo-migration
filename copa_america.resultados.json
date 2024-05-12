@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "6641013064f25d3bb0274fbf"
+  },
+  "partido_id": {
+    "$oid": "6641011b64f25d3bb0274f92"
+  },
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "ganador": {
+    "$oid": "664100f464f25d3bb0274f7f"
+  },
+  "puntos_local": 3,
+  "puntos_visitante": 0,
+  "detalles": [
+    {
+      "tipo": "tarjeta amarilla",
+      "jugador": {
+        "_id": {
+          "$oid": "6641012464f25d3bb0274f9d"
+        },
+        "nombre": "Casemiro",
+        "edad": 29,
+        "pais_id": {
+          "$oid": "664100f464f25d3bb0274f80"
+        },
+        "posición": "Centrocampista"
+      },
+      "minuto": 34
+    },
+    {
+      "tipo": "gol",
+      "jugador": {
+        "$oid": "6641012464f25d3bb0274f98"
+      },
+      "minuto": 47
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6641013064f25d3bb0274fc0"
+  },
+  "partido_id": {
+    "$oid": "6641011b64f25d3bb0274f93"
+  },
+  "goles_local": 0,
+  "goles_visitante": 0,
+  "ganador": null,
+  "puntos_local": 1,
+  "puntos_visitante": 1,
+  "detalles": [
+    {
+      "tipo": "tarjeta roja",
+      "jugador": {
+        "$oid": "6641012464f25d3bb0274fa5"
+      },
+      "minuto": 60
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6641013064f25d3bb0274fc1"
+  },
+  "partido_id": {
+    "$oid": "6641011b64f25d3bb0274f94"
+  },
+  "goles_local": 1,
+  "goles_visitante": 0,
+  "ganador": {
+    "$oid": "664100f464f25d3bb0274f84"
+  },
+  "puntos_local": 3,
+  "puntos_visitante": 0,
+  "detalles": [
+    {
+      "tipo": "gol",
+      "jugador": {
+        "$oid": "6641012464f25d3bb0274fb3"
+      },
+      "minuto": 47
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6641013064f25d3bb0274fc2"
+  },
+  "partido_id": {
+    "$oid": "6641011b64f25d3bb0274f95"
+  },
+  "goles_local": 0,
+  "goles_visitante": 0,
+  "ganador": null,
+  "puntos_local": 1,
+  "puntos_visitante": 1,
+  "detalles": [
+    {
+      "tipo": "tarjeta roja",
+      "jugador": {
+        "$oid": "6641012464f25d3bb0274fb7"
+      },
+      "minuto": 60
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6641013064f25d3bb0274fc3"
+  },
+  "partido_id": {
+    "$oid": "6641011b64f25d3bb0274f96"
+  },
+  "goles_local": 0,
+  "goles_visitante": 0,
+  "ganador": null,
+  "puntos_local": 1,
+  "puntos_visitante": 1,
+  "detalles": [
+    {
+      "tipo": "tarjeta roja",
+      "jugador": {
+        "$oid": "6641012464f25d3bb0274fa0"
+      },
+      "minuto": 60
+    }
+  ]
+}]
