@@ -1,8 +1,8 @@
-db.jugadores.insertMany([
+coupAmericaDB.jugadores.insertMany([
     {
         "nombre": "James Rodríguez",
         "edad": 30,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Colombia"
         })._id,
         "posición": "Centrocampista"
@@ -10,7 +10,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Radamel Falcao",
         "edad": 35,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Colombia"
         })._id,
         "posición": "Delantero"
@@ -18,7 +18,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Juan Cuadrado",
         "edad": 33,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Colombia"
         })._id,
         "posición": "Extremo"
@@ -26,7 +26,7 @@ db.jugadores.insertMany([
     {
         "nombre": "David Ospina",
         "edad": 33,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Colombia"
         })._id,
         "posición": "Portero"
@@ -34,7 +34,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Davinson Sánchez",
         "edad": 25,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Colombia"
         })._id,
         "posición": "Defensa"
@@ -42,7 +42,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Roberto Firmino",
         "edad": 30,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Brasil"
         })._id,
         "posición": "Delantero"
@@ -50,7 +50,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Casemiro",
         "edad": 29,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Brasil"
         })._id,
         "posición": "Centrocampista"
@@ -58,7 +58,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Marquinhos",
         "edad": 27,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Brasil"
         })._id,
         "posición": "Defensa"
@@ -66,7 +66,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Alisson Becker",
         "edad": 29,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Brasil"
         })._id,
         "posición": "Portero"
@@ -74,7 +74,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Richarlison",
         "edad": 24,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Brasil"
         })._id,
         "posición": "Delantero"
@@ -82,7 +82,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Alexis Sánchez",
         "edad": 32,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Chile"
         })._id,
         "posición": "Delantero"
@@ -90,7 +90,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Gary Medel",
         "edad": 34,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Chile"
         })._id,
         "posición": "Defensa"
@@ -98,7 +98,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Eduardo Vargas",
         "edad": 31,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Chile"
         })._id,
         "posición": "Delantero"
@@ -106,7 +106,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Claudio Bravo",
         "edad": 38,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Chile"
         })._id,
         "posición": "Portero"
@@ -114,7 +114,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Arturo Vidal",
         "edad": 34,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Chile"
         })._id,
         "posición": "Centrocampista"
@@ -122,7 +122,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Lionel Messi",
         "edad": 34,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Argentina"
         })._id,
         "posición": "Delantero"
@@ -130,7 +130,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Sergio Agüero",
         "edad": 33,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Argentina"
         })._id,
         "posición": "Delantero"
@@ -138,7 +138,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Paulo Dybala",
         "edad": 28,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Argentina"
         })._id,
         "posición": "Centrocampista"
@@ -146,7 +146,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Emiliano Martínez",
         "edad": 29,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Argentina"
         })._id,
         "posición": "Portero"
@@ -154,7 +154,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Nicolas Otamendi",
         "edad": 33,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Argentina"
         })._id,
         "posición": "Defensa"
@@ -162,7 +162,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Alphonso Davies",
         "edad": 21,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Canada"
         })._id,
         "posición": "Defensa"
@@ -170,7 +170,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Jonathan David",
         "edad": 21,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Canada"
         })._id,
         "posición": "Delantero"
@@ -178,7 +178,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Scott Arfield",
         "edad": 32,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Canada"
         })._id,
         "posición": "Centrocampista"
@@ -186,7 +186,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Milan Borjan",
         "edad": 33,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Canada"
         })._id,
         "posición": "Portero"
@@ -194,7 +194,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Atiba Hutchinson",
         "edad": 38,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Canada"
         })._id,
         "posición": "Centrocampista"
@@ -202,7 +202,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Hirving Lozano",
         "edad": 26,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Mexico"
         })._id,
         "posición": "Delantero"
@@ -210,7 +210,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Raúl Jiménez",
         "edad": 30,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Mexico"
         })._id,
         "posición": "Delantero"
@@ -218,7 +218,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Héctor Herrera",
         "edad": 31,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Mexico"
         })._id,
         "posición": "Centrocampista"
@@ -226,7 +226,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Guillermo Ochoa",
         "edad": 36,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Mexico"
         })._id,
         "posición": "Portero"
@@ -234,7 +234,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Andrés Guardado",
         "edad": 35,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Mexico"
         })._id,
         "posición": "Centrocampista"
@@ -242,7 +242,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Enner Valencia",
         "edad": 32,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Ecuador"
         })._id,
         "posición": "Delantero"
@@ -250,7 +250,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Antonio Valencia",
         "edad": 36,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Ecuador"
         })._id,
         "posición": "Defensa"
@@ -258,7 +258,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Renato Ibarra",
         "edad": 31,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Ecuador"
         })._id,
         "posición": "Centrocampista"
@@ -266,7 +266,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Alexander Domínguez",
         "edad": 34,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Ecuador"
         })._id,
         "posición": "Portero"
@@ -274,7 +274,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Felipe Caicedo",
         "edad": 33,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Ecuador"
         })._id,
         "posición": "Delantero"
@@ -282,7 +282,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Salomón Rondón",
         "edad": 31,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Venezuela"
         })._id,
         "posición": "Delantero"
@@ -290,7 +290,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Tomás Rincón",
         "edad": 33,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Venezuela"
         })._id,
         "posición": "Centrocampista"
@@ -298,7 +298,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Yangel Herrera",
         "edad": 23,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Venezuela"
         })._id,
         "posición": "Centrocampista"
@@ -306,7 +306,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Wuilker Faríñez",
         "edad": 23,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Venezuela"
         })._id,
         "posición": "Portero"
@@ -314,7 +314,7 @@ db.jugadores.insertMany([
     {
         "nombre": "Yeferson Soteldo",
         "edad": 24,
-        "pais_id": db.paises.findOne({
+        "pais_id": coupAmericaDB.paises.findOne({
             "nombre": "Venezuela"
         })._id,
         "posición": "Delantero"

@@ -1,7 +1,7 @@
-db.tablas.insertMany([
+coupAmericaDB.tablas.insertMany([
     {
         "posicion": 1,
-        "pais": db.paises.findOne({"nombre": "Colombia"})._id,
+        "pais": coupAmericaDB.paises.findOne({"nombre": "Colombia"})._id,
         "partidos_jugados": 1,
         "victorias": 1,
         "derrotas": 0,
@@ -9,11 +9,11 @@ db.tablas.insertMany([
         "goles_favor": 1,
         "goles_contra": 0,
         "puntos": 3,
-        "id_grupo": db.grupos.findOne({"nombre": "Grupo A"})._id
+        "id_grupo": coupAmericaDB.grupos.findOne({"nombre": "Grupo A"})._id
     },
     {
         "posicion": 4,
-        "pais": db.paises.findOne({"nombre": "Brasil"})._id,
+        "pais": coupAmericaDB.paises.findOne({"nombre": "Brasil"})._id,
         "partidos_jugados": 2,
         "victorias": 0,
         "derrotas": 1,
@@ -21,11 +21,11 @@ db.tablas.insertMany([
         "goles_favor": 0,
         "goles_contra": 1,
         "puntos": 1,
-        "id_grupo": db.grupos.findOne({"nombre": "Grupo A"})._id
+        "id_grupo": coupAmericaDB.grupos.findOne({"nombre": "Grupo A"})._id
     },
     {
         "posicion": 3,
-        "pais": db.paises.findOne({"nombre": "Argentina"})._id,
+        "pais": coupAmericaDB.paises.findOne({"nombre": "Argentina"})._id,
         "partidos_jugados": 2,
         "victorias": 0,
         "derrotas": 0,
@@ -33,11 +33,11 @@ db.tablas.insertMany([
         "goles_favor": 0,
         "goles_contra": 0,
         "puntos": 1,
-        "id_grupo": db.grupos.findOne({"nombre": "Grupo A"})._id
+        "id_grupo": coupAmericaDB.grupos.findOne({"nombre": "Grupo A"})._id
     },
     {
         "posicion": 2,
-        "pais": db.paises.findOne({"nombre": "Chile"})._id,
+        "pais": coupAmericaDB.paises.findOne({"nombre": "Chile"})._id,
         "partidos_jugados": 2,
         "victorias": 0,
         "derrotas": 0,
@@ -45,11 +45,11 @@ db.tablas.insertMany([
         "goles_favor": 0,
         "goles_contra": 0,
         "puntos": 2,
-        "id_grupo": db.grupos.findOne({"nombre": "Grupo A"})._id
+        "id_grupo": coupAmericaDB.grupos.findOne({"nombre": "Grupo A"})._id
     },
     {
         "posicion": 3,
-        "pais": db.paises.findOne({"nombre": "Ecuador"})._id,
+        "pais": coupAmericaDB.paises.findOne({"nombre": "Ecuador"})._id,
         "partidos_jugados": 1,
         "victorias": 0,
         "derrotas": 0,
@@ -57,11 +57,11 @@ db.tablas.insertMany([
         "goles_favor": 0,
         "goles_contra": 0,
         "puntos": 1,
-        "id_grupo": db.grupos.findOne({"nombre": "Grupo B"})._id
+        "id_grupo": coupAmericaDB.grupos.findOne({"nombre": "Grupo B"})._id
     },
     {
         "posicion": 4,
-        "pais": db.paises.findOne({"nombre": "Venezuela"})._id,
+        "pais": coupAmericaDB.paises.findOne({"nombre": "Venezuela"})._id,
         "partidos_jugados": 1,
         "victorias": 0,
         "derrotas": 0,
@@ -69,11 +69,11 @@ db.tablas.insertMany([
         "goles_favor": 0,
         "goles_contra": 0,
         "puntos": 1,
-        "id_grupo": db.grupos.findOne({"nombre": "Grupo B"})._id
+        "id_grupo": coupAmericaDB.grupos.findOne({"nombre": "Grupo B"})._id
     },
     {
         "posicion": 1,
-        "pais": db.paises.findOne({"nombre": "Mexico"})._id,
+        "pais": coupAmericaDB.paises.findOne({"nombre": "Mexico"})._id,
         "partidos_jugados": 1,
         "victorias": 1,
         "derrotas": 0,
@@ -81,11 +81,11 @@ db.tablas.insertMany([
         "goles_favor": 1,
         "goles_contra": 0,
         "puntos": 3,
-        "id_grupo": db.grupos.findOne({"nombre": "Grupo B"})._id
+        "id_grupo": coupAmericaDB.grupos.findOne({"nombre": "Grupo B"})._id
     },
     {
         "posicion": 4,
-        "pais": db.paises.findOne({"nombre": "Canada"})._id,
+        "pais": coupAmericaDB.paises.findOne({"nombre": "Canada"})._id,
         "partidos_jugados": 1,
         "victorias": 0,
         "derrotas": 1,
@@ -93,6 +93,6 @@ db.tablas.insertMany([
         "goles_favor": 0,
         "goles_contra": 1,
         "puntos": 0,
-        "id_grupo": db.grupos.findOne({"nombre": "Grupo B"})._id
+        "id_grupo": coupAmericaDB.grupos.findOne({"nombre": "Grupo B"})._id
     },
 ]);

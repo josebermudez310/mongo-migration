@@ -1,4 +1,4 @@
-El presente repositorio contiene los esquemas y scripts para la base de datos del evento deportivo
+El presente repositorio contiene los esquemas y scripts para la base de datos del evento deportivo, para ser utilizados en la replicación de la DB.
 
 Para mayor claridad este contendrá dos tipos de documentos: Los esquemas con la extención .json y los scripts de de migration con la extensión .migration.js para ejecutarlos desde la shell de mongo.
 
