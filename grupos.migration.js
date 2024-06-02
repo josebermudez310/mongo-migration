@@ -1,4 +1,4 @@
-coupAmericaDB.grupos.insertMany(
+db.grupos.insertMany(
     [
         {
             "nombre": "Grupo A"
