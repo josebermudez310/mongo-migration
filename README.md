@@ -15,6 +15,16 @@ Para replicar correctamente la base de datos primero debemos especificar desde l
 
 Siguiendo los anteriores pasos podrá replicar correctamente la base de datos.
 
+## Fragmentación
+Para realizar correctamente la fragmentación se deben ejecutar los siguientes scripts:
+
+- arbitros.migratin.fragmentation.js
+- entrenadores.migration.fragmentation.js
+- collections.indexes.fragmentation.js
+- collections.enable.fragmentation.js
+
+Con estos scripts mas las configuraciones realizadas en el documento del proyecto logrará realizar correctamente la fragmentación.
+
 ## Autores
 - Robin Rodriguez
 - Mónica Ardila
